@@ -1,0 +1,236 @@
+[03-Oct-2025 11:48:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_artikel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_artikel.php on line 9
+[05-Oct-2025 01:28:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/digma/synthesa.co.id/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/User.php on line 12
+[08-Oct-2025 20:59:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_galeri.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_galeri.php on line 9
+[09-Oct-2025 04:31:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_ebook.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_ebook.php on line 8
+[09-Oct-2025 06:00:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_video.php on line 8
+[11-Oct-2025 11:49:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_tahun.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_tahun.php on line 8
+[12-Oct-2025 00:28:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_konten_ebook.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_konten_ebook.php on line 8
+[15-Oct-2025 17:58:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_kegiatan.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_kegiatan.php on line 9
+[16-Oct-2025 02:57:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_menu.php on line 9
+[16-Oct-2025 02:58:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_tahun.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_tahun.php on line 8
+[16-Oct-2025 03:46:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_video.php on line 8
+[18-Oct-2025 22:47:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Laratrust\Models\LaratrustPermission' not found in /home/digma/synthesa.co.id/app/Models/Permission.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Permission.php on line 7
+[19-Oct-2025 00:49:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Laratrust\Models\LaratrustPermission' not found in /home/digma/synthesa.co.id/app/Models/Permission.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Permission.php on line 7
+[19-Oct-2025 00:49:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_konten.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_konten.php on line 8
+[19-Oct-2025 00:50:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_wilayah.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_wilayah.php on line 9
+[19-Oct-2025 02:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kegiatan.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kegiatan.php on line 9
+[20-Oct-2025 09:49:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_slide.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_slide.php on line 9
+[20-Oct-2025 09:59:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Laratrust\Models\LaratrustPermission' not found in /home/digma/synthesa.co.id/app/Models/Permission.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Permission.php on line 7
+[20-Oct-2025 10:10:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_karir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_karir.php on line 8
+[20-Oct-2025 10:13:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_galeri.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_galeri.php on line 9
+[20-Oct-2025 11:15:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_submenu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_submenu.php on line 9
+[20-Oct-2025 11:17:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_setting.php on line 8
+[20-Oct-2025 11:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_wilayah.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_wilayah.php on line 9
+[20-Oct-2025 11:34:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/TbLelang.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/TbLelang.php on line 8
+[20-Oct-2025 12:05:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_faq.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_faq.php on line 8
+[20-Oct-2025 12:12:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_video.php on line 8
+[20-Oct-2025 12:23:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_kegiatan.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_kegiatan.php on line 9
+[20-Oct-2025 12:52:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_galeri.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_galeri.php on line 9
+[20-Oct-2025 12:55:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_video.php on line 8
+[20-Oct-2025 13:03:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_pertanyan.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_pertanyan.php on line 8
+[20-Oct-2025 13:04:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_visitor.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_visitor.php on line 8
+[20-Oct-2025 13:38:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_konten_ebook.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_konten_ebook.php on line 8
+[20-Oct-2025 13:42:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_konten.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_konten.php on line 9
+[20-Oct-2025 13:52:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_artikel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_artikel.php on line 9
+[20-Oct-2025 14:01:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_halaman.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_halaman.php on line 9
+[20-Oct-2025 14:24:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_ebook.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_ebook.php on line 8
+[20-Oct-2025 14:53:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Produk.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Produk.php on line 9
+[20-Oct-2025 14:53:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/digma/synthesa.co.id/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/User.php on line 12
+[20-Oct-2025 14:57:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_ebook.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_ebook.php on line 8
+[20-Oct-2025 15:34:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_link.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_link.php on line 9
+[20-Oct-2025 15:52:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kegiatan.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kegiatan.php on line 9
+[20-Oct-2025 16:14:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_artikel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_artikel.php on line 9
+[20-Oct-2025 17:17:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/TbLelang.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/TbLelang.php on line 8
+[20-Oct-2025 17:43:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_contact.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_contact.php on line 8
+[20-Oct-2025 17:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_tentang_kami.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_tentang_kami.php on line 9
+[20-Oct-2025 18:48:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_subscribe.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_subscribe.php on line 8
+[20-Oct-2025 19:19:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_tentang.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_tentang.php on line 8
+[20-Oct-2025 19:39:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_keuntungan.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_keuntungan.php on line 8
+[20-Oct-2025 19:55:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_kategori_konten.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_kategori_konten.php on line 8
+[20-Oct-2025 20:01:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_comment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_comment.php on line 8
+[20-Oct-2025 20:04:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_pengguna.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_pengguna.php on line 9
+[20-Oct-2025 20:19:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Laratrust\Models\LaratrustRole' not found in /home/digma/synthesa.co.id/app/Models/Role.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Role.php on line 7
+[20-Oct-2025 20:20:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_tahun.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_tahun.php on line 8
+[20-Oct-2025 20:21:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_menu.php on line 9
+[20-Oct-2025 22:02:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_karir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_karir.php on line 8
+[21-Oct-2025 00:30:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_link.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_link.php on line 9
+[21-Oct-2025 21:48:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_faq.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_faq.php on line 8
+[22-Oct-2025 00:07:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Produk.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Produk.php on line 9
+[22-Oct-2025 00:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digma/synthesa.co.id/app/Models/Tb_subscribe.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Models/Tb_subscribe.php on line 8

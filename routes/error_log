@@ -1,0 +1,52 @@
+[06-Oct-2025 18:54:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/digma/synthesa.co.id/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/console.php on line 17
+[10-Oct-2025 12:46:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/digma/synthesa.co.id/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/console.php on line 17
+[17-Oct-2025 14:21:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/digma/synthesa.co.id/routes/web.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/web.php on line 74
+[17-Oct-2025 14:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/digma/synthesa.co.id/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/channels.php on line 16
+[17-Oct-2025 20:03:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/digma/synthesa.co.id/routes/api.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/api.php on line 18
+[17-Oct-2025 22:16:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/digma/synthesa.co.id/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/console.php on line 17
+[19-Oct-2025 17:19:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/digma/synthesa.co.id/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/console.php on line 17
+[20-Oct-2025 08:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/digma/synthesa.co.id/routes/web.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/web.php on line 74
+[20-Oct-2025 08:48:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/digma/synthesa.co.id/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/console.php on line 17
+[20-Oct-2025 23:18:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/digma/synthesa.co.id/routes/web.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/web.php on line 74
+[21-Oct-2025 23:14:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/digma/synthesa.co.id/routes/api.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/api.php on line 18
+[22-Oct-2025 10:33:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/digma/synthesa.co.id/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/console.php on line 17
+[22-Oct-2025 11:44:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/digma/synthesa.co.id/routes/web.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/routes/web.php on line 74

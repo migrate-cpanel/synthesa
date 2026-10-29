@@ -1,0 +1,12 @@
+[05-Oct-2025 01:28:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/digma/synthesa.co.id/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Console/Kernel.php on line 8
+[08-Oct-2025 19:13:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/digma/synthesa.co.id/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Console/Kernel.php on line 8
+[20-Oct-2025 09:33:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/digma/synthesa.co.id/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Console/Kernel.php on line 8

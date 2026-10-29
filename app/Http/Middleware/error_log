@@ -1,0 +1,4 @@
+[15-Oct-2025 19:41:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/digma/synthesa.co.id/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Http/Middleware/TrustHosts.php on line 7

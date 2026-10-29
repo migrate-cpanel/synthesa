@@ -1,0 +1,53 @@
+[09-Oct-2025 18:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/kelembagaan.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/kelembagaan.php on line 7
+[09-Oct-2025 19:40:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/sdm.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/sdm.php on line 7
+[09-Oct-2025 21:47:28 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '{' in /home/digma/synthesa.co.id/app/View/Components/kejadian-kebakaran.php on line 7
+[10-Oct-2025 14:04:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/anggaran.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/anggaran.php on line 7
+[11-Oct-2025 07:44:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/ebook.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/ebook.php on line 7
+[12-Oct-2025 19:29:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/relawan.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/relawan.php on line 7
+[13-Oct-2025 08:39:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/spm.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/spm.php on line 7
+[15-Oct-2025 17:52:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/artikel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/artikel.php on line 7
+[15-Oct-2025 23:39:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/video.php on line 7
+[20-Oct-2025 22:02:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/Slide.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/Slide.php on line 7
+[22-Oct-2025 03:24:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/anggaran.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/anggaran.php on line 7
+[23-Oct-2025 00:49:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/Galeri.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/Galeri.php on line 7
+[23-Oct-2025 00:49:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/kontak.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/kontak.php on line 7
+[23-Oct-2025 00:49:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/digma/synthesa.co.id/app/View/Components/sarpras.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/View/Components/sarpras.php on line 7

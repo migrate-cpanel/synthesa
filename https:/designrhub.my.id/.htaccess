@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/legaldarikita/designrhub.my.id"
+PassengerBaseURI "/https:/designrhub.my.id"
+PassengerNodejs "/home/legaldarikita/nodevenv/designrhub.my.id/20/bin/node"
+PassengerAppType node
+PassengerStartupFile node_modules/next/dist/bin/next
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

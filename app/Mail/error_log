@@ -1,0 +1,8 @@
+[20-Oct-2025 12:28:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/digma/synthesa.co.id/app/Mail/MailArtikel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Mail/MailArtikel.php on line 10
+[20-Oct-2025 13:57:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/digma/synthesa.co.id/app/Mail/MailComment.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Mail/MailComment.php on line 10

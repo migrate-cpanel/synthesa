@@ -1,0 +1,20 @@
+[03-Oct-2025 18:10:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/digma/synthesa.co.id/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Http/Kernel.php on line 7
+[07-Oct-2025 11:51:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/digma/synthesa.co.id/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Http/Kernel.php on line 7
+[11-Oct-2025 03:24:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/digma/synthesa.co.id/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Http/Kernel.php on line 7
+[20-Oct-2025 13:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/digma/synthesa.co.id/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Http/Kernel.php on line 7
+[20-Oct-2025 13:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/digma/synthesa.co.id/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Http/Kernel.php on line 7

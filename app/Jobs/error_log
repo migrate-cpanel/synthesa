@@ -1,0 +1,13 @@
+[05-Oct-2025 08:28:06 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/digma/synthesa.co.id/app/Jobs/mailArtikelJob.php on line 16
+[09-Oct-2025 02:10:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/digma/synthesa.co.id/app/Jobs/mailArtikelJob.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Jobs/mailArtikelJob.php on line 16
+[20-Oct-2025 10:31:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/digma/synthesa.co.id/app/Jobs/mailArtikelJob.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Jobs/mailArtikelJob.php on line 16
+[22-Oct-2025 18:46:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/digma/synthesa.co.id/app/Jobs/mailArtikelJob.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digma/synthesa.co.id/app/Jobs/mailArtikelJob.php on line 16
